@@ -1,9 +1,14 @@
-## QuickTranslate
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/Yandelgil/QuickTranslate/blob/main/Icon/BarTranslate-Icon.png" alt="QuickTranslate" width="50"/></td>
+    <td><h2 style="margin: 0; padding-left: 10px;">QuickTranslate</h2></td>
+  </tr>
+</table>
+
+🚀 **QuickTranslate** is your go-to translator right in the macOS menu bar!
 
 ![Platform](https://img.shields.io/badge/platform-macOS-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.5-orange)
-
-🚀 **QuickTranslate** is your go-to translator right in the macOS menu bar!
 
 Need a quick translation? With QuickTranslate, the best translation services are just one click away. Simple, fast, and effective!
 
