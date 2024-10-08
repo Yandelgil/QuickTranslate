@@ -2,7 +2,6 @@
 
 ![Platform](https://img.shields.io/badge/platform-macOS-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.5-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 🚀 **QuickTranslate** is your go-to translator right in the macOS menu bar!
 
